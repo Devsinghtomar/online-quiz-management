@@ -1,0 +1,104 @@
+#round-instruction{
+    font-size: 60px;
+    text-align: center;
+    color:white;
+    
+}
+.round2-instructions{
+    border:5px solid white;
+    border-radius:10px;
+    width: 700px;
+    margin-left:320px;
+    background-color: khaki;
+    font-size:26px;
+    font-weight: bolder;
+    
+}
+.enter-test-button {
+            
+    margin-top:20px;
+    margin-left:520px;
+    width:300px;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 10px;
+    font-size: 29px;
+    font-weight: bold;
+    text-align: center;
+    background-color: khaki;
+    padding-top: 5px;
+    text-decoration: none;
+    
+}
+.enter-test-button a{
+    text-decoration: none;
+    color:darkblue;
+}
+.enter-test-button:hover{
+    background-color: greenyellow;
+    
+}
+.round2-subtitle p{
+    margin-top:0px;    
+    font-size:60px;
+    text-align: center;
+    color:white;
+}
+
+.questions-container{
+    padding-left: 10px;
+    margin-top: -30px;
+    width: 700px;
+    height: 80px;
+    background-color: khaki;
+    margin-left: 300px;
+    border-radius: 10px;
+    border: 5px solid white;
+    font-size:23px;
+    font-weight: bold;
+}
+.logo-area{
+    
+    margin-top: 0px;
+    width: 300px;
+    height: 300px;
+    border: 5px solid white;
+    margin-top: 50px;
+    margin-left:500px;
+}
+.answer-button{
+    
+    margin-top:20px;
+    margin-left:330px;
+    width:200px;
+    height: 50px;
+     border: 2px solid red;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.answer-button:hover{
+    background-color: greenyellow;
+    cursor: pointer;s
+    
+}
+.submit-button{
+     
+    margin-top:20px;
+    margin-left:200px;
+    width:200px;
+    height: 50px;
+     border: 2px solid red;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.submit-button:hover{
+    background-color: greenyellow;
+    cursor: pointer;
+    
+}
+#round_selection_button{
+    width:auto;
+    margin-left:100px;
+}
